@@ -153,7 +153,7 @@
             android:layout_alignParentEnd="true"
             android:layout_marginBottom="16dp"
             android:layout_marginEnd="16dp"
-            android:src="@mipmap/baseline_save_black_36dp"
+            android:src="@mipmap/save_white_36dp"
             app:fabSize="normal"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />

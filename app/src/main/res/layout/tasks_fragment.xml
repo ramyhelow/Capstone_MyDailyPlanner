@@ -38,7 +38,7 @@
                     android:layout_marginEnd="@dimen/card_icon_margin_end"
                     android:layout_marginTop="@dimen/card_icon_margin_top"
                     android:layout_marginStart="@dimen/card_icon_margin_start"
-                    android:src="@mipmap/baseline_today_black_48dp" />
+                    android:src="@mipmap/today_black_48dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -69,7 +69,7 @@
                     android:layout_marginEnd="@dimen/card_icon_margin_end"
                     android:layout_marginTop="@dimen/card_icon_margin_top"
                     android:layout_marginStart="@dimen/card_icon_margin_start"
-                    android:src="@mipmap/baseline_next_week_black_48dp" />
+                    android:src="@mipmap/next_week_black_48dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -100,7 +100,7 @@
                     android:layout_marginEnd="@dimen/card_icon_margin_end"
                     android:layout_marginTop="@dimen/card_icon_margin_top"
                     android:layout_marginStart="@dimen/card_icon_margin_start"
-                    android:src="@mipmap/baseline_watch_later_black_48dp" />
+                    android:src="@mipmap/watch_later_black_48dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -134,7 +134,7 @@
                     android:layout_marginEnd="@dimen/card_icon_margin_end"
                     android:layout_marginTop="@dimen/card_icon_margin_top"
                     android:layout_marginStart="@dimen/card_icon_margin_start"
-                    android:src="@mipmap/baseline_done_black_48dp" />
+                    android:src="@mipmap/done_black_48dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
